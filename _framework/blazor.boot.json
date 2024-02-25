@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "DeanH_Task_Management_App.dll": "sha256-cSqMi5TTLQilHs+UxMAbBMS5OrbSgu5NekjF6fcr8DE=",
+      "DeanH_Task_Management_App.dll": "sha256-ciUOGwwZSjmDJoJr2jUZKgIeh7xgF67OpsFSPthpZJk=",
       "Microsoft.AspNetCore.Components.dll": "sha256-avBn4uRRVjOtRgS6mu6IEixwEnQuL2oYiHTzXAyjocw=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-+B+Dw0exFpLLKnjfJM4i3\/oCk0S9vAPAWW4+uwMs5h8=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-jj0gEWGz0IP5DtImmDS2JCnL7nDJvw39GXaOgt9q2BU=",
